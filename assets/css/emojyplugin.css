@@ -1,0 +1,24 @@
+.emojionearea .emojionearea-picker.emojionearea-picker-position-top {
+    margin-top: 0;
+    left: -14px;
+}
+
+.emojionearea .emojionearea-button {
+    z-index: 5;
+    font-size: 36px;
+    position: absolute;
+    left: -50px;
+    top: 3px;
+    width: 40px;
+    height: 40px;
+    opacity: .6;
+    cursor: pointer;
+    -moz-transition: opacity .3s ease-in-out;
+    -o-transition: opacity .3s ease-in-out;
+    -webkit-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out;
+}
+.emojionearea .emojionearea-button > div, .emojionearea .emojionearea-picker .emojionearea-wrapper:after {
+    transform: scale(1.3);
+
+}

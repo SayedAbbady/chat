@@ -1,0 +1,48 @@
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: chatUserLogin in /home/aburuqayyah/public_html/chat.eaalim.com/pages/session.php on line 4
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: userChatId in /home/aburuqayyah/public_html/chat.eaalim.com/include/header.php on line 54
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: userChatImage in /home/aburuqayyah/public_html/chat.eaalim.com/pages/user.php on line 15
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: userChatId in /home/aburuqayyah/public_html/chat.eaalim.com/pages/user.php on line 53
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: userChatType in /home/aburuqayyah/public_html/chat.eaalim.com/pages/user.php on line 56
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: userChatType in /home/aburuqayyah/public_html/chat.eaalim.com/pages/user.php on line 98
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: userChatType in /home/aburuqayyah/public_html/chat.eaalim.com/pages/user.php on line 202
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: userChatType in /home/aburuqayyah/public_html/chat.eaalim.com/pages/user.php on line 204
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: userChatId in /home/aburuqayyah/public_html/chat.eaalim.com/include/footer.php on line 17
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: userChatFname in /home/aburuqayyah/public_html/chat.eaalim.com/include/footer.php on line 19
+[26-Jul-2020 21:33:16 UTC] PHP Notice:  Undefined index: userChatLname in /home/aburuqayyah/public_html/chat.eaalim.com/include/footer.php on line 19
+[27-Jul-2020 12:37:22 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aburuqayyah/public_html/chat.eaalim.com/oper/data.php on line 150
+[27-Jul-2020 13:13:05 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aburuqayyah/public_html/chat.eaalim.com/oper/data.php on line 150
+[27-Jul-2020 13:26:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/aburuqayyah/public_html/chat.eaalim.com/oper/data.php on line 150
+[06-Aug-2020 16:05:18 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/tuc41nkaronp/public_html/chat.infosayed.com/oper/data.php on line 150
+[06-Aug-2020 17:22:08 UTC] PHP Notice:  Undefined index: chatUserLogin in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/session.php on line 4
+[06-Aug-2020 17:22:08 UTC] PHP Notice:  Undefined index: userChatId in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/header.php on line 39
+[06-Aug-2020 19:22:08 Africa/Cairo] PHP Notice:  Undefined index: userChatId in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/profile.php on line 6
+[06-Aug-2020 19:22:08 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/profile.php on line 51
+[06-Aug-2020 19:22:08 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/profile.php on line 57
+[06-Aug-2020 19:22:08 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/profile.php on line 63
+[06-Aug-2020 19:22:08 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/profile.php on line 112
+[06-Aug-2020 19:22:08 Africa/Cairo] PHP Notice:  Undefined index: userChatId in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/footer.php on line 7
+[06-Aug-2020 19:22:08 Africa/Cairo] PHP Notice:  Undefined index: userChatFname in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/footer.php on line 9
+[06-Aug-2020 19:22:08 Africa/Cairo] PHP Notice:  Undefined index: userChatLname in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/footer.php on line 9
+[06-Aug-2020 17:24:10 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/tuc41nkaronp/public_html/chat.infosayed.com/oper/data.php on line 150
+[06-Aug-2020 21:11:09 UTC] PHP Notice:  Undefined index: chatUserLogin in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/session.php on line 4
+[06-Aug-2020 21:11:09 UTC] PHP Notice:  Undefined index: userChatId in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/header.php on line 39
+[06-Aug-2020 23:11:09 Africa/Cairo] PHP Notice:  Undefined index: userChatImage in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 15
+[06-Aug-2020 23:11:09 Africa/Cairo] PHP Notice:  Undefined index: userChatId in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 53
+[06-Aug-2020 23:11:09 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 56
+[06-Aug-2020 23:11:09 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 98
+[06-Aug-2020 23:11:09 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 202
+[06-Aug-2020 23:11:09 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 204
+[06-Aug-2020 23:11:09 Africa/Cairo] PHP Notice:  Undefined index: userChatId in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/footer.php on line 7
+[06-Aug-2020 23:11:09 Africa/Cairo] PHP Notice:  Undefined index: userChatFname in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/footer.php on line 9
+[06-Aug-2020 23:11:09 Africa/Cairo] PHP Notice:  Undefined index: userChatLname in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/footer.php on line 9
+[06-Aug-2020 21:11:14 UTC] PHP Notice:  Undefined index: chatUserLogin in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/session.php on line 4
+[06-Aug-2020 21:11:14 UTC] PHP Notice:  Undefined index: userChatId in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/header.php on line 39
+[06-Aug-2020 23:11:14 Africa/Cairo] PHP Notice:  Undefined index: userChatImage in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 15
+[06-Aug-2020 23:11:14 Africa/Cairo] PHP Notice:  Undefined index: userChatId in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 53
+[06-Aug-2020 23:11:14 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 56
+[06-Aug-2020 23:11:14 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 98
+[06-Aug-2020 23:11:14 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 202
+[06-Aug-2020 23:11:14 Africa/Cairo] PHP Notice:  Undefined index: userChatType in /home/tuc41nkaronp/public_html/chat.infosayed.com/pages/user.php on line 204
+[06-Aug-2020 23:11:14 Africa/Cairo] PHP Notice:  Undefined index: userChatId in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/footer.php on line 7
+[06-Aug-2020 23:11:14 Africa/Cairo] PHP Notice:  Undefined index: userChatFname in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/footer.php on line 9
+[06-Aug-2020 23:11:14 Africa/Cairo] PHP Notice:  Undefined index: userChatLname in /home/tuc41nkaronp/public_html/chat.infosayed.com/include/footer.php on line 9

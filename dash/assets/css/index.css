@@ -1,0 +1,64 @@
+.addBtn {
+  color: #fff;
+}
+.add-student {
+  max-width: 780px;
+  padding: 50px;
+  background: rgba(250,250,250,0.8);
+  border: 1px solid #ccc;
+  border-radius: 7px;
+  margin: auto;
+}
+.imgProfile img{
+  width: 60px;
+}
+.DeleteId,
+.Deletesuper,
+.Deletete,
+.Deletesupgrou,
+.Deleteproblem,
+.DeleteChild {
+  border: 0;
+  background: none;
+}
+.privImg img{
+  border: 2px solid #999;
+  width: 150px;
+  /* height: 150px; */
+  margin: 30px 0;
+  box-shadow: 3px 9px 10px #ccc;
+  border-radius: 50%;
+}
+.privsuper b{
+  display: inline-block;
+  margin: 10px 0;
+  width: 140px;
+}
+.privsuper a{
+  color:blue
+}
+.homepage{
+  margin: auto;
+  width:68vw
+}
+
+.homepage .online{
+  height: 450px;
+  overflow-y: scroll;
+  padding: 25px;
+  border-radius: 6px;
+  background: #f3f3f3;
+  border: 1px solid #ccc;
+}
+.homepage .online i{
+  color: #26b426;
+  font-size: 9px;
+}
+.numsup{
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: green;
+  border-radius: 50%;
+  color: #fff;
+}
